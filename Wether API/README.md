@@ -59,6 +59,8 @@ project-folder/
 * Clears old data on error
 
 ## 📸 Preview
+<img width="634" height="289" alt="Screenshot 2026-06-23 111107" src="https://github.com/user-attachments/assets/ab1d429e-f8c7-4a95-82f0-d0cb8d103373" />
+
 
 Simple UI with:
 
